@@ -63,7 +63,6 @@ Tích hợp công nghệ hiện đại:
 
 **- Link Slide báo cáo: https://www.canva.com/design/DAGbofEce2w/_s99w8PNzOKsAVa-SGMFTQ/edit?fbclid=IwZXh0bgNhZW0CMTEAAR2fphD_XL37Wlmp4dGPGCdHXj0CZV0ah-FwNyjA96dO7aJ7IhRPWaYg_Uw_aem_COp2VrDK3Y3NW9lPiboxYQ**
 
-**- Link Figma cho user: https://www.figma.com/design/DnmycgDrnY5tAzA58UD9R4/user?node- id=0-1&node-type=canvas&t=mYC6hPUGRHAlPRa6-0**
+**- Link Figma cho user: https://www.figma.com/design/DnmycgDrnY5tAzA58UD9R4/user?node-**
 
-**- Link Figma cho admin: https://www.figma.com/design/DnmycgDrnY5tAzA58UD9R4/user?node- id=0-1&node-type=canvas&t=mYC6hPUGRHAlPRa6-0**
-
+**- Link Figma cho admin: https://www.figma.com/design/DnmycgDrnY5tAzA58UD9R4/user?node-**
