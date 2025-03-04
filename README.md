@@ -60,3 +60,5 @@ Tích hợp công nghệ hiện đại:
 **- Phản hồi và cải tiến:**
 - Ghi nhận phản hồi từ khách hàng.
 - Tự động cập nhật và cải thiện dịch vụ.
+
+**- Link Slide báo cáo: https://www.canva.com/design/DAGbofEce2w/_s99w8PNzOKsAVa-SGMFTQ/edit?fbclid=IwZXh0bgNhZW0CMTEAAR2fphD_XL37Wlmp4dGPGCdHXj0CZV0ah-FwNyjA96dO7aJ7IhRPWaYg_Uw_aem_COp2VrDK3Y3NW9lPiboxYQ**
